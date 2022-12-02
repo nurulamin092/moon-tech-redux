@@ -1,4 +1,4 @@
-import { data } from "autoprefixer";
+// import { data } from "autoprefixer";
 import React, { useEffect, useState } from "react";
 import { useSelector } from "react-redux";
 import ProductCard from "../components/ProductCard";
